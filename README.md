@@ -1,1 +1,1 @@
-# Numerical-assesment-of-bolt-strength
+# Numerical assesment of bolt strength
